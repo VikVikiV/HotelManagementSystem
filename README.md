@@ -1,4 +1,4 @@
-## Hotel Management System
+# Hotel Management System
  
 This code is based on the implementation of a Hotel Management System via Python. It's main function is to allocate rooms, administer customers, and control customer billing.
  
