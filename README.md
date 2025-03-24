@@ -4,7 +4,7 @@ This code is based on the implementation of a Hotel Management System via Python
  
 ## Academic Assessment  
 
-A detailed analysis of this projects results, and limitations is available in the following paper [(docs/BBIM502_A2_Project_764706455_1.docx)].  
+A detailed analysis of this projects results, and limitations is available in the following [paper](docs/BBIM502_A2_Project_764706455_1.docx).  
  
 ## Features
  
