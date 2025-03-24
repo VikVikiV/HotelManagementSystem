@@ -4,7 +4,7 @@ This code is based on the implementation of a Hotel Management System via Python
  
 ## Academic Assessment  
 
-A detailed analysis of this projects results, and limitations is available in the following paper - (docs/BBIM502_A2_Project_764706455_1.docx).  
+A detailed analysis of this projects results, and limitations is available in the following paper [(docs/BBIM502_A2_Project_764706455_1.docx)].  
  
 ## Features
  
@@ -59,11 +59,7 @@ Follow the on-screen menu to interact with the system. Options include:
 - "main.py": Main program file
 
 - "RoomAllocation.py": Contains the RoomAllocation class
- 
-## Contributing
- 
-
- 
+  
 ## License
  
 [MIT](https://choosealicense.com/licenses/mit/)
